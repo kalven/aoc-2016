@@ -14,7 +14,10 @@ written with these priorities:
 
  * ...
 
- * ...
-
  * ... elegance?
- 
+
+Some programs output solutions for both parts. Some programs require a tweak to
+a single line to produce the solution for part two. If the difference is more
+than one or two lines, the two solutions are split up into separate .cpp
+files. Some programs load input from file, some have the input hardcoded into
+the source.
